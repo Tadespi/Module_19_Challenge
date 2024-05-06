@@ -1,10 +1,9 @@
-**CryptoClustering**
+# CryptoClustering
 
-**Description:**
+# Introduction
 In this project, Python and unsupervised learning techniques are employed to predict whether cryptocurrencies are affected by 24-hour or 7-day price changes. The goal is to utilize K-means clustering and Principal Component Analysis (PCA) to analyze and cluster cryptocurrency data.
 
-**Instructions:**
-
+# Instructions
 1. **Prepare the Data:**
    - Load the crypto_market_data.csv into a DataFrame.
    - Get summary statistics and plot the data to understand its structure.
